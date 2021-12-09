@@ -2,7 +2,7 @@ package finalKeyword;
 
 public class CheckFinalMethod {
 	
-public final String color = "red"; 
+public String color = "red"; 
 	
 	public final void test4(){
 		System.out.println("Final method");

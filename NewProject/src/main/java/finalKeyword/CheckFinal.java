@@ -1,5 +1,5 @@
 package finalKeyword;
 
-public class CheckFinal {
+public final class CheckFinal {
 
 }
