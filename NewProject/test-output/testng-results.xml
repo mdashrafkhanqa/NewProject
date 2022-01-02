@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-24T15:24:10 EST" name="Default suite" finished-at="2021-12-24T15:24:36 EST" duration-ms="26590">
+    <groups>
+    </groups>
+    <test started-at="2021-12-24T15:24:10 EST" name="Default test" finished-at="2021-12-24T15:24:36 EST" duration-ms="26590">
+      <class name="session4Assignment.Program3">
+        <test-method signature="invocationCount()[pri:0, instance:session4Assignment.Program3@5b1669c0]" started-at="2021-12-24T15:24:10 EST" name="invocationCount" finished-at="2021-12-24T15:24:14 EST" duration-ms="3982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invocationCount -->
+        <test-method signature="invocationCount()[pri:0, instance:session4Assignment.Program3@5b1669c0]" started-at="2021-12-24T15:24:14 EST" name="invocationCount" finished-at="2021-12-24T15:24:17 EST" duration-ms="3075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invocationCount -->
+        <test-method signature="invocationCount()[pri:0, instance:session4Assignment.Program3@5b1669c0]" started-at="2021-12-24T15:24:17 EST" name="invocationCount" finished-at="2021-12-24T15:24:20 EST" duration-ms="3097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invocationCount -->
+        <test-method signature="invocationCountThreadpool()[pri:0, instance:session4Assignment.Program3@5b1669c0]" started-at="2021-12-24T15:24:20 EST" name="invocationCountThreadpool" finished-at="2021-12-24T15:24:23 EST" duration-ms="3528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invocationCountThreadpool -->
+        <test-method signature="invocationCountThreadpool()[pri:0, instance:session4Assignment.Program3@5b1669c0]" started-at="2021-12-24T15:24:20 EST" name="invocationCountThreadpool" finished-at="2021-12-24T15:24:23 EST" duration-ms="3528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invocationCountThreadpool -->
+        <test-method signature="invocationCountThreadpool()[pri:0, instance:session4Assignment.Program3@5b1669c0]" started-at="2021-12-24T15:24:20 EST" name="invocationCountThreadpool" finished-at="2021-12-24T15:24:23 EST" duration-ms="3528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invocationCountThreadpool -->
+        <test-method signature="invocationCountTimeout()[pri:0, instance:session4Assignment.Program3@5b1669c0]" started-at="2021-12-24T15:24:23 EST" name="invocationCountTimeout" finished-at="2021-12-24T15:24:30 EST" duration-ms="6425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invocationCountTimeout -->
+        <test-method signature="invocationCountTimeouts()[pri:0, instance:session4Assignment.Program3@5b1669c0]" started-at="2021-12-24T15:24:30 EST" name="invocationCountTimeouts" finished-at="2021-12-24T15:24:33 EST" duration-ms="3162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invocationCountTimeouts -->
+        <test-method signature="invocationCountTimeouts()[pri:0, instance:session4Assignment.Program3@5b1669c0]" started-at="2021-12-24T15:24:33 EST" name="invocationCountTimeouts" finished-at="2021-12-24T15:24:36 EST" duration-ms="3274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invocationCountTimeouts -->
+      </class> <!-- session4Assignment.Program3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
